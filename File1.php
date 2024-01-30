@@ -1,4 +1,4 @@
 <?php
-$love = 'bebeb0000000000000000000000000000000000ebebebeb';
-$love = 'bebeb========ebebebeb';
-$sport = str_replace('sss','eeee',$sport);
+$love = 'bebeb00000333333333333333330000ebebebeb';
+$love = 'beb4444444444444444444444444eb========ebebebeb';
+$sport = str_replace('sss','eeeببببببببببببببببببببببe',$sport);
