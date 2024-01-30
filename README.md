@@ -26,5 +26,5 @@ new line
 ===============LOCAL
 
 
-<<<<<<<<<<<<<<<<<< Local Conflect >>>>>>>>>>>>>>>>>>
+<<<<< REMOTE CONFLICT >>>>>
 ===================== Local but not in remote ======================
