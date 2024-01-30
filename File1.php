@@ -1,3 +1,3 @@
 <?php
-$love = 'mamamamamama';
+$love = 'bebebebebebeb';
 $sport = str_replace('sss','eeee',$sport);
