@@ -1,3 +1,5 @@
 <?php
 
-$sport = str_replace('sss','eeee'$sport);
+$sport = 'please do nto dot';
+print $sport = str_replace('sss','eeee',$sport);
+
